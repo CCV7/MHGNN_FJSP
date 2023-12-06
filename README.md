@@ -3,4 +3,5 @@ This repository is the paper “[Flexible job shop scheduling via deep reinforce
 Basic Environment Settings
 
 python = 3.9
+
 pytorch = 1.6
